@@ -1,6 +1,6 @@
 cask "sweat-streaks" do
   version "0.1.0"
-  sha256 "2599c9112fe0ec5ccaa36c9e7eb0389b78b4ce7b0b910f480915c203929a8665"
+  sha256 "1c34d8fd7d4cd0cf5092f60d5775266bab552571dbe1bead3665888d8cb7b2ec"
 
   url "https://github.com/anthonylu23/sweat-streaks/releases/download/v#{version}/Sweat-Streaks-v#{version}-macos-arm64.zip"
   name "Sweat Streaks"
